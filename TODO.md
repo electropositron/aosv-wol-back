@@ -1,0 +1,2 @@
+- Transformer ce script en un conteneur Docker pour une exécution indépendantes des processus de l'OS
+- Ajouter un mécanisme d'authentification via un mécanisme de tokens
